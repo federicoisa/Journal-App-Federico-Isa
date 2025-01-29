@@ -6,13 +6,15 @@ import { getFirestore } from 'firebase/firestore/lite';
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
+
 const firebaseConfig = {
-  apiKey: "AIzaSyC9qM8LKYti4TZus0g00ISzMjudet-H2vg",
-  authDomain: "react-cursos-4368a.firebaseapp.com",
-  projectId: "react-cursos-4368a",
-  storageBucket: "react-cursos-4368a.appspot.com",
-  messagingSenderId: "35683178704",
-  appId: "1:35683178704:web:2cab2003319bbac2eba6d5"
+  apiKey: "AIzaSyB2eK4Vc1A9FM_M0mCMq9_wWM628w3YfIQ",
+  authDomain: "journal-federico-isa.firebaseapp.com",
+  projectId: "journal-federico-isa",
+  storageBucket: "journal-federico-isa.firebasestorage.app",
+  messagingSenderId: "645183602723",
+  appId: "1:645183602723:web:1aa455eb5bd8658eabb196",
+  measurementId: "G-YMYMBWBMKX"
 };
 
 // Initialize Firebase
